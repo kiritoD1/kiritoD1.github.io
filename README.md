@@ -37,7 +37,7 @@
 - [Java 容器](https://github.com/kiritoD1/kiritoD1.github.io/blob/master/notes/Java 容器.md)
 - [Java 并发](https://github.com/kiritoD1/kiritoD1.github.io/blob/master/notes/Java 并发.md)
 - [Java 虚拟机](https://github.com/kiritoD1/kiritoD1.github.io/blob/master/notes/Java 虚拟机.md)
-- [Java I/O](https://github.com/kiritoD1/kiritoD1.github.io/blob/master/notes/Java IO.md)
+- [Java I/O]([https://github.com/kiritoD1/kiritoD1.github.io/blob/master/notes/Java%20IO.md](https://github.com/kiritoD1/kiritoD1.github.io/blob/master/notes/Java IO.md))
 
 ## :bulb: 系统设计 
 
