@@ -1,42 +1,63 @@
 # Jeremy7のJavaRoad
 
-## Java
+## :pencil2: 算法
 
-### **1.Java概述**
+- [剑指 Offer 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/剑指%20Offer%20题解%20-%20目录.md)
+- [Leetcode 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20题解%20-%20目录.md)
+- [算法](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
+- [笔试面试题库](https://www.nowcoder.com/contestRoom?from=cyc_github)
 
-​		1.1 Java语言有什么特点？
+## :computer: 操作系统
 
-​		1.2关于JVM JDK和JRE最详细通俗的解答
+- [计算机操作系统](https://github.com/CyC2018/CS-Notes/blob/master/notes/计算机操作系统%20-%20目录.md)
+- [Linux](https://github.com/CyC2018/CS-Notes/blob/master/notes/Linux.md)
 
-​		1.3 Oracle JDK与OpenJDK的对比
+## :cloud: 网络 
 
-​		1.4 Java 和 C++的区别?
+- [计算机网络](https://github.com/CyC2018/CS-Notes/blob/master/notes/计算机网络%20-%20目录.md)
+- [HTTP](https://github.com/CyC2018/CS-Notes/blob/master/notes/HTTP.md)
+- [Socket](https://github.com/CyC2018/CS-Notes/blob/master/notes/Socket.md)
 
-​		1.5 什么是 Java 程序的主类 应用程序和小程序的主类有何不同?
+## :art: 面向对象
 
-​		1.6 Java 应用程序与小程序之间有哪些差别?
+- [面向对象思想](https://github.com/CyC2018/CS-Notes/blob/master/notes/面向对象思想.md)
+- [设计模式](https://github.com/CyC2018/CS-Notes/blob/master/notes/设计模式%20-%20目录.md)
 
-​		1.7 import java 和 javax 有什么区别？
+## :floppy_disk: 数据库
 
-​		1.8 为什么说 Java 语言“编译与解释并存”？
+- [数据库系统原理](https://github.com/CyC2018/CS-Notes/blob/master/notes/数据库系统原理.md)
+- [SQL](https://github.com/CyC2018/CS-Notes/blob/master/notes/SQL.md)
+- [Leetcode-Database 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode-Database%20题解.md)
+- [MySQL](https://github.com/CyC2018/CS-Notes/blob/master/notes/MySQL.md)
+- [Redis](https://github.com/CyC2018/CS-Notes/blob/master/notes/Redis.md)
 
-### **2.Java语言基础**
+## :coffee: Java
 
-​		2.1 字符型常量和字符串常量的区别?
+- [Java 基础](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20基础.md)
+- [Java 容器](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20容器.md)
+- [Java 并发](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20并发.md)
+- [Java 虚拟机](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20虚拟机.md)
+- [Java I/O](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20IO.md)
 
-​		2.2 关于注释？
+## :bulb: 系统设计 
 
-​		2.3 标识符和关键字的区别是什么？
+- [系统设计基础](https://github.com/CyC2018/CS-Notes/blob/master/notes/系统设计基础.md)
+- [分布式](https://github.com/CyC2018/CS-Notes/blob/master/notes/分布式.md)
+- [集群](https://github.com/CyC2018/CS-Notes/blob/master/notes/集群.md)
+- [攻击技术](https://github.com/CyC2018/CS-Notes/blob/master/notes/攻击技术.md)
+- [缓存](https://github.com/CyC2018/CS-Notes/blob/master/notes/缓存.md)
+- [消息队列](https://github.com/CyC2018/CS-Notes/blob/master/notes/消息队列.md)
 
-​		2.4 Java中有哪些常见的关键字？
+## :wrench: 工具 
 
-​		2.5 自增自减运算符
+- [Git](https://github.com/CyC2018/CS-Notes/blob/master/notes/Git.md)
+- [Docker](https://github.com/CyC2018/CS-Notes/blob/master/notes/Docker.md)
+- [构建工具](https://github.com/CyC2018/CS-Notes/blob/master/notes/构建工具.md)
+- [正则表达式](https://github.com/CyC2018/CS-Notes/blob/master/notes/正则表达式.md)
 
-​		2.6 continue、break、和return的区别是什么？
+## :watermelon: 编码实践 
 
-​		2.7 Java泛型了解么？什么是类型擦除？介绍一下常用的通配符？
+- [代码可读性](https://github.com/CyC2018/CS-Notes/blob/master/notes/代码可读性.md)
+- [代码风格规范](https://github.com/CyC2018/CS-Notes/blob/master/notes/代码风格规范.md)
 
-​		2.8 ==和equals的区别
-
-​		2.9 hashCode()与 equals()
-
+## :memo: 后记
